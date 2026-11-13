@@ -3,3 +3,5 @@ amazon-braket-qdmi[qiskit]==1.4.0
 iqm-qdmi[qiskit]==1.6.0
 ibm-qdmi[qiskit]==1.1.0
 pasqal-qdmi[mqt-core,pulser]==1.2.0
+mqss-qdmi-mqv==0.1.3
+
